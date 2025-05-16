@@ -11,6 +11,7 @@ For this application, we will need two Python modules,
 When you run the above .py file, you will get such kind of output. Enter any URL in the first row and press the convert button & that’s it, your python code will generate a shortened URL for you.
 
 Just like this.
+
 ![image alt](https://github.com/nishanth894/Portfolio-Project-for-Micro-IT-/blob/c039723ffd347de8f528419dc91e5b3e608c2c2a/Screenshot%202025-05-16%20124120.png)
 
 Note: This application will only run until you’re connected to the internet. As it needs to fetch APIs; It will not work in offline mode.
